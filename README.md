@@ -9,3 +9,6 @@ In this project we analyzed the Barabási–Albert (BA) model, a network growth 
 
 # Requirements
 Python with `networkX`, `matplotlib` and `numpy` libraries.
+
+## Note: 
+This project was part of a university exam, so some comments or files may be in Serbian.
